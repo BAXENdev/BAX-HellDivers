@@ -2,7 +2,7 @@
 # BAXEN's Helldivers Mod
 Source material from
 * [HELLDIVERS Stratagems + Extras](https://steamcommunity.com/sharedfiles/filedetails/?id=3357140296)
-* [https://steamcommunity.com/sharedfiles/filedetails/?id=2938391119](https://steamcommunity.com/sharedfiles/filedetails/?id=2938391119)
+* [HELLDIVERS (BROKEN)](https://steamcommunity.com/sharedfiles/filedetails/?id=2938391119)
 
 Credit to: *Phenosi, Venom, Neex, Grave, Phenosi, PAPAFOX, BigRed*
 
